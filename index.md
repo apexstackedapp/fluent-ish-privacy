@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 
-Last updated: 10 September 2026
+Last updated: 12 September 2026
 
 Fluent-ish is a vocabulary trainer that listens to you say a word and grades
 your pronunciation. This policy explains what happens to that audio and to
@@ -12,11 +12,15 @@ everything else the app touches.
 
 ## What we collect
 
-Nothing. Fluent-ish has no account system, no sign-in, no analytics, no
-advertising, and no third-party trackers. We do not collect, store, or
-transmit your name, email address, contacts, location, or device
+Nothing reaches us. Fluent-ish has no account system, no sign-in, no
+analytics, no advertising, and no third-party trackers. We do not collect,
+store, or transmit your name, email address, contacts, location, or device
 identifiers. We cannot identify you, because we never receive anything that
 could.
+
+The app does keep one record on your own iPhone -- a log of your practice
+attempts, described below. It stays on your device, and we never receive
+it.
 
 ## Your speech
 
@@ -39,11 +43,28 @@ retained, or sent to us. We operate no servers and receive no audio.
 ## What stays on your device
 
 Your study progress -- which words you have seen, how you scored, and when
-each word is next due -- is stored locally on your iPhone. It is not synced,
-backed up to us, or shared. Deleting the app deletes it.
+each word is next due -- is stored locally on your iPhone, as is the practice
+log described below. It is not synced, backed up to us, or shared. Deleting
+the app deletes it.
 
 If you study Latin, the downloaded speech model is also stored locally.
 Deleting the app deletes that too.
+
+## The practice log
+
+The app keeps a record on your iPhone of each attempt you make: the word you
+were shown, what the speech recogniser heard, whether it was accepted, and
+how long it took. You can read it in the app under the waveform button, and
+delete it by deleting the app.
+
+This record is kept so pronunciation grading can be made fairer -- it is the
+only way to tell whether the app is failing people who said the word
+correctly. It stays on your iPhone. It is not uploaded, not sent anywhere in
+the background, and contains nothing identifying you.
+
+If you choose to share it, using the share button on that screen, it goes
+wherever you send it and nowhere else. That is the only way it leaves your
+device, and it never happens on its own.
 
 ## Network use
 
